@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package org.cyanogenmod.cmactions;
+package org.mokee.mkactions;
 
 import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
 public class DozePulseAction implements SensorAction {
-    private static final String TAG = "CMActions";
+    private static final String TAG = "MKActions";
 
     private Context mContext;
     private State mState;
