@@ -211,6 +211,7 @@ vendor/lib/egl/libGLESv1_CM_adreno.so
 vendor/lib/egl/libGLESv2_adreno.so
 vendor/lib/egl/libq3dtools_adreno.so
 vendor/lib/libadreno_utils.so
+vendor/lib/libbccQTI.so
 vendor/lib/libC2D2.so
 vendor/lib/libc2d30-a3xx.so
 vendor/lib/libCB.so
@@ -282,6 +283,8 @@ etc/firmware/BCM20795A1_001.002.012.0003.0078_Generic_I2C_NCD_Signed_configdata.
 bin/mm-pp-daemon
 vendor/lib/libmm-abl.so
 vendor/lib/libmm-abl-oem.so
+vendor/lib/libdisp-aba.so
+vendor/lib/libsensor1.so
 
 # Qualcomm framework
 bin/irsc_util
